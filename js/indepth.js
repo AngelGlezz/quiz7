@@ -609,7 +609,7 @@ function finish_test(){
   	
   	$("#indepth_aciertos").html(aciertos);
   	$("#indepth_aciertos_text").html(msg);
-  	$("#tipo_aficionado").html( aficionado );
+  	$("#tipo_aficionado").html(aficionado);
   	
 }
 
@@ -770,13 +770,8 @@ $("#indepth_twittear").click(function(){
 		var url = encodeURIComponent("http://juanfutbol.com/indepth/");
 		window.open("https://twitter.com/share?text="+text+"&hashtags=juanfutbol&url="+url,"","width=500, height=300");
 
-	}else{
-		
-		
-		
 	}
-	
-	});
+});
 	
 	$(document).on("click", "#indepth_button_ver" ,function(){
 		$.fn.fullpage.moveSectionDown();
