@@ -1,0 +1,420 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué afición fue la más representativa de la Euro?",
+      "respuestas": [
+        {
+          "respuesta": "Inglaterra",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Islandia",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Francia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Italia",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué futbolista decepcionó más en el torneo?",
+      "respuestas": [
+        {
+          "respuesta": "Zlatan",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Cristiano Ronaldo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Griezmann",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Buffon",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Contra qué equipo perdió Alemania?",
+      "respuestas": [
+        {
+          "respuesta": "Inglaterra",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Italia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Portugal",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Francia",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué instancia fue eliminado España?",
+      "respuestas": [
+        {
+          "respuesta": "Semifinales",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Fase de Grupos",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Octavos",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Cuartos",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles anotó Zlatan?",
+      "respuestas": [
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "0",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el partido con más goles del torneo?",
+      "respuestas": [
+        {
+          "respuesta": "Hungría vs. Portugal",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "España vs. Italia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Francia vs. Islandia",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Hungría vs. Bélgica",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles marcó Bale?",
+      "respuestas": [
+        {
+          "respuesta": "3",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "4",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué lugar de su grupo calificó Portugal?",
+      "respuestas": [
+        {
+          "respuesta": "Primero",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Segundo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Tercero",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué día de junio inició la copa?",
+      "respuestas": [
+        {
+          "respuesta": "10",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "11",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "9",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "12",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué ciudad se jugó el partido inaugural?",
+      "respuestas": [
+        {
+          "respuesta": "Marsella",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "París",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Burdeos",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Lille",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Estadio de la final",
+      "respuestas": [
+        {
+          "respuesta": "Stade Pierre-Mauroy",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Parc Olympique Lyonnais",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Stade de France",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Stade Vélodrome",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles anotó Islandia en el torneo?",
+      "respuestas": [
+        {
+          "respuesta": "8",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "7",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "9",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "10",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién fue el máximo goleador de España?",
+      "respuestas": [
+        {
+          "respuesta": "Fernando Torres",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Aduriz",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Nolito",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Morata",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos terceros lugares clasificaron a octavos?",
+      "respuestas": [
+        {
+          "respuesta": "6",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "4",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "ninguno",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué futbolista anotó el primer gol del torneo?",
+      "respuestas": [
+        {
+          "respuesta": "Giroud",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Griezmann",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Payet",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Martial",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es el jugador más joven en anotar en el torneo?",
+      "respuestas": [
+        {
+          "respuesta": "Cristiano Ronaldo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Figo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Renato Sanches",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Nuno Gomes",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Contra quién jugó Francia en la inauguración?",
+      "respuestas": [
+        {
+          "respuesta": "Rumanía",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Albania",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Suiza",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Italia",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué equipo eliminó al campeón de la edición anterior?",
+      "respuestas": [
+        {
+          "respuesta": "Alemania",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Francia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Italia",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Inglaterra",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos empates tuvo Portugal en fase de grupos?",
+      "respuestas": [
+        {
+          "respuesta": "Ninguno",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "En qué instancia fue eliminada Islandia?",
+      "respuestas": [
+        {
+          "respuesta": "Fase de grupos",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Semifinal",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cuartos",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Octavos",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
