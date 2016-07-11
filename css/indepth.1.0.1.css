@@ -607,6 +607,7 @@
 	width: 600px;
 	margin: 40px auto;
 	padding: 50px 20px;
+	display: none;
 }
 
 .indepth_result_cont{
@@ -972,17 +973,6 @@
 	.indepth_result_cont{
 		width: 280px;
 	}
-	
-	#indepth_resultados{
-		display: block;
-		
-	}
-	
-	.indepth_resultado_lo{
-		margin: 20px auto ; 
-		display: block;
-	}
-
 	#dominos img {
     	width: 55%;
 	}
